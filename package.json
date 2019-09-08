@@ -1,0 +1,26 @@
+{
+  "name": "nodecli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerobot/nodecli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerobot/nodecli/issues"
+  },
+  "homepage": "https://github.com/kerobot/nodecli#readme",
+  "dependencies": {
+    "marked": "^0.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
